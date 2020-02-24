@@ -47,4 +47,4 @@ It's an electrical response in the brain when the retina is simulated by flicker
 - 9 points in 9 corner of the monitor. (My opinion: An inteface like Webgazer)
 
 ## Result
-![result]('pictures/result.PNG')
+![result](pictures/result.PNG)
