@@ -32,4 +32,5 @@
 ![method](pictures/method.PNG)
 ## Model Configuration
 ![config](pictures/config.PNG)
+## VGG CNN
 ![config1](pictures/config1.PNG)
