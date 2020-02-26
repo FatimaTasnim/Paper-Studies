@@ -26,7 +26,7 @@
     - glass and eye makeup can distract the result
 
 ## Comparison Between Proposed Gaze ditection algotithm
-![compare](pictures/compare.PNG)
+![compare](pictures/Compare.PNG)
 
 ## Proposed Method for this paper
 ![method](pictures/method.PNG)
