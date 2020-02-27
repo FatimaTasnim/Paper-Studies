@@ -28,4 +28,4 @@ Each participant was recorded on all head-worn eye-tracking setups. The particip
 Data Loss = 100 * ((Nexpected_samples - Nvalid_samples)/Nexpected_samples)
 
 ## Deviation result
-![Deviation](pictures/deviation/md)
+![Deviation](pictures/deviation.PNG)
