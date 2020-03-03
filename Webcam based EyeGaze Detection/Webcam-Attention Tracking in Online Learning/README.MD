@@ -79,3 +79,6 @@ It's an event of user face turning and moving away from computer screen. Used fr
 https://github.com/trx350/xMOOC_benchmark
 
 
+## **NOTE**
+Weird fact: They said web gazer isn't as good as tracking.js so they worked of TJS in this paper. But in their [next paper of 2019](https://github.com/FatimaTasnim/Paper-Studies/tree/master/Webcam%20based%20EyeGaze%20Detection/User%20Attention%20Tracking) they used webgazer for their work. Also webgazer itself uses TJS for tracking.
+
